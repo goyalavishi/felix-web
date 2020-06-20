@@ -35,12 +35,12 @@ html {
 }
 
 body, p {
-	color: #f1f1f8; 
+	color: #753014; 
 	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
 }
 
 .p-large {
-	color: #f1f1f8;
+	color: #753014;
 	font: 400 1rem/1.5rem "Open Sans", sans-serif;
 }
 
@@ -748,7 +748,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(255, 240, 200, 0), rgba(255, 240, 200, 0)), url('../images/header-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -767,7 +767,7 @@ input[type='checkbox'] {
 }
 
 .header #js-rotating {
-	color: #40e0ee;
+	color: #753014;
 }
 
 .header .p-large {
@@ -1449,14 +1449,14 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background: linear-gradient(to bottom right, #2c1a7e, #5557db);
+	background: linear-gradient(to bottom right, #FEC870, #FEC870);
 	text-align: center;
 }
 
 .ex-basic-1 {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
-	background-color: #2f2c3d;
+	background-color: #5D1815;
 }
 
 .ex-basic-1 .breadcrumbs {
@@ -1471,7 +1471,7 @@ a:hover.back-to-top {
 .ex-basic-2 {
 	padding-top: 4.75rem;
 	padding-bottom: 4rem;
-	background-color: #262431;
+	background-color: #FFF0C8;
 }
 
 .ex-basic-2 h3 {
