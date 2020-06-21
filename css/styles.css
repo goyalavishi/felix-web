@@ -45,7 +45,7 @@ body, p {
 }
 
 .p-small {
-	color: #f1f1f8;
+	color: #753014;
 	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
 }
 
@@ -93,7 +93,12 @@ h6 {
 }
 
 a {
-	color: #f1f1f8;
+	color: #753014;
+	text-decoration: underline;
+}
+
+.simplem {
+	color: #FFF0C8;
 	text-decoration: underline;
 }
 
@@ -111,10 +116,12 @@ a.white {
 }
 
 .testimonial-text {
+	color: #FFF0C8;
 	font: italic 400 1rem/1.5rem "Open Sans", sans-serif;
 }
 
 .testimonial-author {
+	color: #FFF0C8;
 	font: 700 1rem/1.5rem "Montserrat", sans-serif;
 }
 
@@ -269,7 +276,7 @@ a.white {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: #753014;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -323,7 +330,7 @@ select::-ms-expand {
 	padding-left: 1.3125rem;
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
-	background-color: #413d52;
+	background-color: #753014;
 	color: #f1f1f8;
 	font: 400 0.875rem/1.75rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -632,7 +639,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 40px;
+    width: 150px;
 	height: 40px;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
@@ -1388,7 +1395,7 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack .fa-stack-1x {
-    color: #262431;
+    color: #5D1815;
 	transition: all 0.2s ease;
 }
 
@@ -1457,6 +1464,12 @@ a:hover.back-to-top {
 	padding-top: 2rem;
 	padding-bottom: 0.875rem;
 	background-color: #5D1815;
+}
+
+.ex-basic-color {
+	padding-top: 2rem;
+	padding-bottom: 0.875rem;
+	background-color: #FFD084;
 }
 
 .ex-basic-1 .breadcrumbs {
@@ -1554,7 +1567,7 @@ a:hover.back-to-top {
 
 	.navbar-custom .nav-item .nav-link {
 		padding: 0.25rem 0.75rem 0.25rem 0.75rem;
-		color: #fff;
+		color: #E57428;
 	}
 	
 	.navbar-custom .nav-item .nav-link:hover,
@@ -1944,7 +1957,7 @@ a:hover.back-to-top {
 	
 	/* General Styles */
 	.p-heading {
-		width: 44%;
+		width: 60%;
 	}
 	/* end of general styles */
 
