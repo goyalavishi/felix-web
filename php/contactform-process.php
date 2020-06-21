@@ -25,8 +25,8 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "yourname@domain.com";
-$Subject = "New message from Leno landing page";
+$EmailTo = "avishi@simplem.in";
+$Subject = "Contacting Simplem Solutions";
 
 // prepare email body text
 $Body = "";
