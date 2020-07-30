@@ -10,7 +10,7 @@ We designed Felix with the aim to better engage you with your loved ones while u
 https://www.youtube.com/watch?v=JKn4uZJjJ9c&feature=youtu.be
 
 ### Download links
-Android : https://play.google.com/store/apps/details?id=com.simplem.felix
+Android : https://play.google.com/store/apps/details?id=com.simplem.felix </br>
 iOS     : https://apps.apple.com/in/app/felix-imagination-unfold/id1517324913
 
 ### Why felix for corporate?
